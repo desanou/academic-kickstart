@@ -54,6 +54,9 @@ social:
 - icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/94855076-edmond-sn
+- icon: quora
+  icon_pack: fab
+  link: https://www.quora.com/profile/Edmond-Sanou
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
