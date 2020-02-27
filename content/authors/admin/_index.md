@@ -44,27 +44,19 @@ education:
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  mailto: doedmond.sanou@univ-evry.fr  # For a direct email link, use "mailto:doedmond.sanou@univ-evry.fr".
+#  mailto: doedmond.sanou@univ-evry.fr 
 - icon: linkedin
   icon_pack: fab
   link: https://https://www.linkedin.com/in/doedmond/
 - icon: github
   icon_pack: fab
   link: https://github.com/desanou/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCV5ZRqbgrMA0R6gvFuNF42A
 - icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/94855076-edmond-sn
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
