@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  mailto: doedmond.sanou@univ-evry.fr 
 - icon: linkedin
   icon_pack: fab
   link: https://https://www.linkedin.com/in/doedmond/
@@ -70,5 +67,4 @@ user_groups:
 
 Edmond Sanou is a doctoral student in the [Laboratory of Mathematics and Modeling](https://math-evry.cnrs.fr/) at the [University of Evry](https://www.univ-evry.fr/) under the supervision of [Christophe Ambroise](http://www.math-evry.cnrs.fr/members/cambroise/welcome). He holds a master's degree in biostatistics from the [National School of Statistics](http://http://ensai.fr/) and is pursuing a doctorate in mathematics applied to genomics. Edmond also gives tutorials to undergraduate students.
 
-His research aims to develop a mixed graphical model for the inference of biological networks in order to increase the understanding of the mechanisms of adaptation of trees to environmental conditions. The research takes place within the framework of the ANR [Epitree](https://www6.inrae.fr/epitree-project/Le-projet-EPITREE) project. 
-About.
+His research aims to develop a mixed graphical model for the inference of biological networks in order to increase the understanding of the mechanisms of adaptation of trees to environmental conditions. The research takes place within the framework of the ANR [Epitree](https://www6.inrae.fr/epitree-project/Le-projet-EPITREE) project.
