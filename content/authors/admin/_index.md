@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  mailto: doedmond.sanou@univ-evry.fr  # For a direct email link, use "mailto:doedmond.sanou@univ-evry.fr".
+#- icon: envelope
+#  icon_pack: fas
+#  mailto: doedmond.sanou@univ-evry.fr  # For a direct email link, use "mailto:doedmond.sanou@univ-evry.fr".
 - icon: linkedin
   icon_pack: fab
   link: https://https://www.linkedin.com/in/doedmond/
