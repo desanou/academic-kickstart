@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in applied mathematics
+role: PhD Student in Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://math-evry.cnrs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - Probabilistic graphical models
@@ -44,21 +44,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:doedmond.sanou@univ-evry.fr".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  mailto: doedmond.sanou@univ-evry.fr  # For a direct email link, use "mailto:doedmond.sanou@univ-evry.fr".
 - icon: linkedin
   icon_pack: fab
   link: https://https://www.linkedin.com/in/doedmond/
 - icon: github
   icon_pack: fab
-  link: https://github.com/desanou
+  link: https://github.com/desanou/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCV5ZRqbgrMA0R6gvFuNF42A
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/94855076-edmond-sn
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Edmond Sanou is a PhD candidate in the Mathematics and modeling laboratory of Evry and works under the supervision of Christophe Ambroise. 
+Edmond Sanou is a doctoral student in the [Laboratory of Mathematics and Modeling](https://math-evry.cnrs.fr/) at the [University of Evry](https://www.univ-evry.fr/) under the supervision of [Christophe Ambroise](http://www.math-evry.cnrs.fr/members/cambroise/welcome). He holds a master's degree in biostatistics from the [National School of Statistics](http://http://ensai.fr/) and is pursuing a doctorate in mathematics applied to genomics. Edmond also gives tutorials to undergraduate students.
+
+His research aims to develop a mixed graphical model for the inference of biological networks in order to increase the understanding of the mechanisms of adaptation of trees to environmental conditions. The research takes place within the framework of the ANR [Epitree](https://www6.inrae.fr/epitree-project/Le-projet-EPITREE) project.
