@@ -61,8 +61,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Researcher
+- Visitor
 ---
 
 Edmond Sanou is a doctoral student in the [Laboratory of Mathematics and Modeling](https://math-evry.cnrs.fr/) at the [University of Evry](https://www.univ-evry.fr/) under the supervision of [Christophe Ambroise](http://www.math-evry.cnrs.fr/members/cambroise/welcome). He holds a master's degree in biostatistics from the [National School of Statistics](http://http://ensai.fr/) and is pursuing a doctorate in mathematics applied to genomics. Edmond also gives tutorials to undergraduate students.
